@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\buildprojectsherry\\buildprojectsherry\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\buildprojectsherry\\buildprojectsherry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\buildprojectsherry\\buildprojectsherry\\models\\bulidprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\models\\bulidprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\buildprojectsherry\\buildprojectsherry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:05:29.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Program.cs",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Program.cs",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Program.cs",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:44:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\appsettings.json",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\appsettings.json",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\appsettings.json",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T22:38:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulidProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAKgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:58:42.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
