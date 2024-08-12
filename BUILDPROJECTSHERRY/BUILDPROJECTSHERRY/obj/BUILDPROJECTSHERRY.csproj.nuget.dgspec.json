@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj": {}
+    "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj": {
+    "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj",
+        "projectUniqueName": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj",
         "projectName": "BUILDPROJECTSHERRY",
-        "projectPath": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj",
+        "projectPath": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj",
         "packagesPath": "C:\\Users\\sherry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sherry\\source\\repos\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\obj\\",
+        "outputPath": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sherry\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,30 @@
+﻿@page
+@model BUILDPROJECTSHERRY.Pages.hospital.IndexModel
+@{ViewData["Title"] = "List of hospitals";
+    
+}
+<h2>Hospitals List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>State</th>
+            <th>City</th>
+            <th>Adress</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hospital in Model.Hospitals)
+        {
+            <tr>
+                <td>@hospital.HospitalName</td>
+                <td>@hospital.USState</td>
+                <td>@hospital.City</td>
+                <td>@hospital.Adress</td>
+                <td>@hospital.Phone</td>
+            </tr>
+        }
+    </tbody>
+</table>

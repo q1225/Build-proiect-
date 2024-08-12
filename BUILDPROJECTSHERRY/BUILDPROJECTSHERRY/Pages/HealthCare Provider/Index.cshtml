@@ -1,0 +1,37 @@
+﻿@page
+@model BUILDPROJECTSHERRY.Pages.HealthCare_Provider.IndexModel
+@{
+    ViewData["Title"] = "List of Health care providers.";
+}
+<oh2>Providers List</oh2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>Gender</th>
+            <th>DOB</th>
+            <th>Adress</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Zip</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var HealthcareProvider in Model.Providers)
+        {
+            <tr>
+                <td>@HealthcareProvider.FirstName</td>
+                <td>@HealthcareProvider.LastName</td>
+                <td>@HealthcareProvider.Gender</td>
+                <td>@HealthcareProvider.Dob</td>
+                <td>@HealthcareProvider.Adress</td>
+                <td>@HealthcareProvider.City</td>
+                <td>@HealthcareProvider.State</td>
+                <td>@HealthcareProvider.Zip</td>
+                <td>@HealthcareProvider.Phone</td>
+            </tr>
+        }
+    </tbody>
+</table>

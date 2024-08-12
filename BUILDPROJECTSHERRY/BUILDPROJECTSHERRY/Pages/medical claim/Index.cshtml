@@ -1,0 +1,35 @@
+﻿@page
+@model BUILDPROJECTSHERRY.Pages.medical_claim.IndexModel
+@{
+    ViewData["Title"] = "List of medical claims";
+
+}
+<h2>Hospitals List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Patient</th>
+            <th>Health_Care_Provider</th>
+            <th>NDC</th>
+            <th>Quantity</th>
+            <th>Total_Amount</th>
+            <th>Days_Supply</th>
+            <th>Prescription_Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var medcialClaim in Model.medcialClaims)
+        {
+            <tr>
+                <td>@medcialClaim.Patient</td>
+                <td>@medcialClaim.HealthCareProvider</td>
+                <td>@medcialClaim.Ndc</td>
+                <td>@medcialClaim.Quantity</td>
+                <td>@medcialClaim.TotalAmount</td>
+                <td>@medcialClaim.DaysSupply</td>
+                <td>@medcialClaim.PrescritonNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>
