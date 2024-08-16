@@ -4,17 +4,32 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BUILDPROJECTSHERRY.Pages.patient
 {
- public class IndexModel : PageModel
+    public class IndexModel : PageModel
     {
         private readonly BulidProjectContext _context;
-        public List<Models.Patient> Patients;
+        public List<Models.Patient> patients;
         public IndexModel(BulidProjectContext context)
         {
             _context = context;
-        }
+        } 
         public void OnGet()
         {
-            Patients = _context.Patients.ToList();
+            patients = _context.Patients.ToList();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }

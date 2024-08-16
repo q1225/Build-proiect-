@@ -1,34 +1,35 @@
 ﻿@page
 @model BUILDPROJECTSHERRY.Pages.patient.IndexModel
-@{
-    ViewData["Title"] = "List of Patients";
+@{ViewData["Title"] = "List of Patient";
 }
-<h2>Patients List</h2>
-<table class="table">
-    <thead>
-        <tr>
-            <th>Firstname</th>
-            <th>Lastname</th>
+ <h2>Patient List</h2>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+            <th>First_name</th>
+            <th>Last_name</th>
             <th>DOB</th>
             <th>Gender</th>
-            <th>MRN</th>
             <th>SSN</th>
-            <th>InsuranceID/<th>
-            
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var patient in Model.Patients)
-        {
-            <tr>
-                <td>@patient.FirstName</td>
-                <td>@patient.LastName</td>
-                <td>@patient.Dob</td>
-                <td>@patient.Gender</td>
-                <td>@patient.Mrn</td>
-                <td>@patient.Ssn</td>
-                <td>@patient.InsuranceId</td>
+            <th>InsuranceID</th>
+            <th>InsuranceID</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var patietnts in Model.Patient)
+            {
+                <tr>
+                <td>@patients.first_name</td>
+                    <td>@patients.lastname</td>
+                    <td>@patients.dob</td>
+                    <td>@patients.gender</td>
+                    <td>@patients.Ssn</td>
+                    <td>@patients.InsuranceID</td>
+                <td>@patients.InsuranceID</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
