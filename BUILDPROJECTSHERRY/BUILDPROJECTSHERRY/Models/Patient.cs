@@ -16,8 +16,9 @@ public partial class Patient
     public string? Mrn { get; set; }
 
     public string? Ssn { get; set; }
+    public virtual Hospital Hospital { get; set; } = null!;
 
     public string? InsuranceId { get; set; }
 
-    public string? HospitalId { get; set; }
+    public int? HospitalId { get; set; }
 }

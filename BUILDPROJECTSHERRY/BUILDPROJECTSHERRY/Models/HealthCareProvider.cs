@@ -27,9 +27,9 @@ public partial class HealthCareProvider
 
     public string? Npi { get; set; }
 
-    public int HospitalId { get; set; }
+    public int? HospitalId { get; set; }
 
     public int RoleId { get; set; }
-
+    public int hospitalcount { get; set; }
     public virtual Hospital Hospital { get; set; } = null!;
 }

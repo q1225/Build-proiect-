@@ -16,7 +16,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var hospital in Model.Hospitals)
+        @foreach (var hospital in Model.Hospital)
         {
             <tr>
                 <td>@hospital.HospitalName</td>
@@ -30,7 +30,7 @@
                     </a>
                 </td>
                 <td>
-                    <a asp-page="/Patient/Index" asp-route-hospitalId="@hospital.Id">
+                    <a asp-page="/Patient/Index" asp-route-hospitalId="@HealthCare_Provider.Id">
                         @hospital.HealthCareProviders_count
                     </a>
                 </td>

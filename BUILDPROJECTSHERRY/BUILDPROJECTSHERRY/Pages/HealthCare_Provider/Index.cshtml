@@ -16,6 +16,8 @@
             <th>State</th>
             <th>Zip</th>
             <th>Phone</th>
+            <th># number of hospital</th>
+            
         </tr>
     </thead>
     <tbody>
@@ -31,6 +33,12 @@
                 <td>@HealthcareProvider.State</td>
                 <td>@HealthcareProvider.Zip</td>
                 <td>@HealthcareProvider.Phone</td>
+               <td>
+                    <a asp-page="/Hospital/Index" asp-route-healthcareproviderroleid="@HealthcareProvider.Id">
+                        @HealthcareProvider.hospitalcount
+                    </a>
+                </td>
+           
             </tr>
         }
     </tbody>

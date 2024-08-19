@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\models\\bulidprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\models\\bulidprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\pages\\patient\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\patient\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\pages\\hospital\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\hospital\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\pages\\healthcare_provider\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\healthcare_provider\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\pages\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\pages\\healthcare_provider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|solutionrelative:buildprojectsherry\\pages\\healthcare_provider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83238FEC-C3C5-4E73-9B40-D7B53197161B}|BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj|c:\\users\\sherry\\source\\repos\\build-proiect-\\buildprojectsherry\\buildprojectsherry\\pages\\hospital\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T00:18:29.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -47,66 +64,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
-              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Title": "BulidProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Models\\BulidProjectContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwB8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T18:40:25.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T18:20:41.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml",
-              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml",
-              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T18:10:36.211Z",
+              "WhenOpened": "2024-08-18T00:14:05.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml.cs",
-              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAYAAAA",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Patient\\Index.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwCQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T18:02:50.284Z",
+              "WhenOpened": "2024-08-18T00:10:52.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml.cs",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:01:48.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml",
+              "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml",
+              "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\HealthCare_Provider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T00:01:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml",
               "RelativeDocumentMoniker": "BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml",
               "ToolTip": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml",
               "RelativeToolTip": "BUILDPROJECTSHERRY\\Pages\\Hospital\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T17:51:52.724Z",
+              "WhenOpened": "2024-08-18T00:01:03.299Z",
               "EditorCaption": ""
             }
           ]
