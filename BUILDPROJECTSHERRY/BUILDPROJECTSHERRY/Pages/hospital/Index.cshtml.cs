@@ -12,9 +12,19 @@ namespace BUILDPROJECTSHERRY.Pages.Hospital
         {
             _context = context;
         }
-        public void OnGet(int?healthcareproviderid)
+        public void OnGet(int? patientid)
         {
-            Hospital = _context.Hospitals.ToList();
+            Hospital = _context.Hospitals.Select(x => new Models.Hospital
+            {
+              Id=x.Id,
+                Adress= x.Adress,
+               City=x.City, 
+              State=x.State,
+              HealthCareProviders=x.HealthCareProviders,        
+            HospitalName=x.HospitalName,
+            Phone=x.Phone,
+             Zip=x.Zip
+            }).ToList();
         }
     }
 }

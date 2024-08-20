@@ -8,13 +8,16 @@ namespace BUILDPROJECTSHERRY.Pages.HealthCare_Provider
     {
         private readonly BulidProjectContext _context;
         public List<Models.HealthCareProvider> Providers;
+
         public IndexModel(BulidProjectContext context)
         {
             _context = context;
         }
+        
         public void OnGet(int? hospitalId)
         { Providers = _context.HealthCareProviders.Where(x=> !hospitalId.HasValue || x.HospitalId == hospitalId).Select(x => new Models.HealthCareProvider
-        {   Id = x.Id,
+        {  
+            Id = x.Id,
             Adress = x.Adress,
             City = x.City,
             FirstName= x.FirstName,

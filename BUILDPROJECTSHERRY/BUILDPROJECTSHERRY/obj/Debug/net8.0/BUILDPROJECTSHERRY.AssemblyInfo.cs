@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BUILDPROJECTSHERRY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0140863324d78647a4e65479c293cfec358204ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0d55952dea11449adcba8e031977c3a264cfc74")]
 [assembly: System.Reflection.AssemblyProductAttribute("BUILDPROJECTSHERRY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BUILDPROJECTSHERRY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

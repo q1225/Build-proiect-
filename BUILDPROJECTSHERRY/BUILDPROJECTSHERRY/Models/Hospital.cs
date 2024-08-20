@@ -18,7 +18,7 @@ public partial class Hospital
     public string? Zip { get; set; }
 
     public string? Phone { get; set; }
-    public int patient_count { get; set; }
-    public int healthcareProvider_count { get; set; }
+    
     public virtual ICollection<HealthCareProvider> HealthCareProviders { get; set; } = new List<HealthCareProvider>();
+    public virtual ICollection<Patient> Patients { get; set; } = new List<Patient>();
 }

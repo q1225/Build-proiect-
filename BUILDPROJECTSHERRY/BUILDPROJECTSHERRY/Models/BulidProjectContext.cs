@@ -21,7 +21,7 @@ public partial class BulidProjectContext : DbContext
 
     public virtual DbSet<Hospital> Hospitals { get; set; }
 
-    public virtual DbSet<MedcialClaim> MedcialClaims { get; set; }
+    public virtual DbSet<MedicalClaim> MedcialClaims { get; set; }
 
     public virtual DbSet<Patient> Patients { get; set; }
 
@@ -106,7 +106,7 @@ public partial class BulidProjectContext : DbContext
                 .HasColumnName("ZIP");
         });
 
-        modelBuilder.Entity<MedcialClaim>(entity =>
+        modelBuilder.Entity<MedicalClaim>(entity =>
         {
             entity.ToTable("MEDCIAL_CLAIM");
 

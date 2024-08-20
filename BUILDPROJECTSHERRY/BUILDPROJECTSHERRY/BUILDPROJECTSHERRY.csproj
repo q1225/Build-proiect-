@@ -7,11 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Pages\Hospital\Index.cshtml" />
-    <Content Remove="Pages\Patient\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="Angular.UI.Bootstrap" Version="2.5.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.7">
       <PrivateAssets>all</PrivateAssets>
@@ -35,11 +31,6 @@
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Pages\Hospital\Index.cshtml" />
     <_ContentIncludedByDefault Remove="Pages\Patient\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Pages\Hospital\Index.cshtml" />
-    <None Include="Pages\Patient\Index.cshtml" />
   </ItemGroup>
 
   <ItemGroup>

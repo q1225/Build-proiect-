@@ -1,11 +1,9 @@
 ﻿@page
-@model BUILDPROJECTSHERRY.Pages.patient.IndexModel
+@model BUILDPROJECTSHERRY.Pages.Patient.IndexModel
 @{ViewData["Title"] = "List of Patient";
 }
  <h2>Patient List</h2>
-
-
-    <table class="table">
+ <table class="table">
         <thead>
             <tr>
             <th>First_name</th>
@@ -14,21 +12,24 @@
             <th>Gender</th>
             <th>SSN</th>
             <th>InsuranceID</th>
-            <th># of hosptial</th>
         </tr>
         </thead>
         <tbody>
-            @foreach (var patietnts in Model.Patient)
+            @foreach (var patietnts in Models.Patient)
             {
-                <tr>
+              <tr>
                 <td>@patients.first_name</td>
                     <td>@patients.lastname</td>
                     <td>@patients.dob</td>
                     <td>@patients.gender</td>
                     <td>@patients.Ssn</td>
                     <td>@patients.InsuranceID</td>
-                <td>@patients.InsuranceID</td>
-                </tr>
+               <td>
+                    <a asp-page="/Hospital/Index" asp-route-patientid="@patients.Id">
+                    @patients.hospitalcount
+                </a>
+              </td>
+           </tr>
             }
         </tbody>
     </table>

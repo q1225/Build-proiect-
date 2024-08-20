@@ -1,5 +1,5 @@
 ﻿@page
-@model BUILDPROJECTSHERRY.Pages.hospital.IndexModel
+@model BUILDPROJECTSHERRY.Pages.Hospital.IndexModel
 @{ViewData[Title]="list of hospitals"
 }
 <h2>Hospitals List</h2>
@@ -16,11 +16,11 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var hospital in Model.Hospital)
+        @foreach (var hospitals in Models.Hospital)
         {
             <tr>
                 <td>@hospital.HospitalName</td>
-                <td>@hospital.USState</td>
+                <td>@hospital.State</td>
                 <td>@hospital.City</td>
                 <td>@hospital.Adress</td>
                 <td>@hospital.Phone</td>

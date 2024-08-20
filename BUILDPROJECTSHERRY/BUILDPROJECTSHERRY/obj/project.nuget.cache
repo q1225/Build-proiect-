@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5Xci5YIVNfI=",
+  "dgSpecHash": "MT0FHKJR21U=",
   "success": true,
   "projectFilePath": "C:\\Users\\sherry\\source\\repos\\Build-proiect-\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY\\BUILDPROJECTSHERRY.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sherry\\.nuget\\packages\\angular.ui.bootstrap\\2.5.0\\angular.ui.bootstrap.2.5.0.nupkg.sha512",
     "C:\\Users\\sherry\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sherry\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\sherry\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

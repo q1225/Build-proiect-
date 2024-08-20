@@ -2,6 +2,9 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Angular.UI.Bootstrap/2.5.0": {
+        "type": "package"
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -1506,6 +1509,22 @@
     }
   },
   "libraries": {
+    "Angular.UI.Bootstrap/2.5.0": {
+      "sha512": "402jIttam/Zawp6FjzsZmzKinfw9ivuEjRafWf6B43pfaDrd0/5K0TOpFnFh9dfhX5wUKr7R44wSfLe2ZEXbow==",
+      "type": "package",
+      "path": "angular.ui.bootstrap/2.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "angular.ui.bootstrap.2.5.0.nupkg.sha512",
+        "angular.ui.bootstrap.nuspec",
+        "content/Content/ui-bootstrap-csp.css",
+        "content/Scripts/angular-ui/ui-bootstrap-tpls.js",
+        "content/Scripts/angular-ui/ui-bootstrap-tpls.min.js",
+        "content/Scripts/angular-ui/ui-bootstrap.js",
+        "content/Scripts/angular-ui/ui-bootstrap.min.js"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -4100,6 +4119,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Angular.UI.Bootstrap >= 2.5.0",
       "Microsoft.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
@@ -4151,6 +4171,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Angular.UI.Bootstrap": {
+            "target": "Package",
+            "version": "[2.5.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.7, )"

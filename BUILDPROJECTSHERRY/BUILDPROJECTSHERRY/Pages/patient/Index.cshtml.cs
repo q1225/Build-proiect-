@@ -22,14 +22,15 @@ namespace BUILDPROJECTSHERRY.Pages.Patient
                 Mrn = x.Mrn,
                 Ssn = x.Ssn,
                 Gender = x.Gender,
-                LastName = x.LastName,
+                hospitalcount = x.hospitalcount,
                 HospitalId = x.HospitalId,
                 Hospital = new Models.Hospital
                 {
                     Id = x.HospitalId.Value,
                     HospitalName = x.Hospital.HospitalName,
                 },
-                FirstName = x.FirstName,
+                LastName = x.LastName,
+              FirstName = x.FirstName,
             }).ToList();
 
         }
